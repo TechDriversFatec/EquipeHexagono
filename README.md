@@ -59,3 +59,4 @@ O envio das notificações é feito através do OneSignal. Para isso é necessá
 - Adriele Martins (Development Team)
 - Levi Motta (Development Team)
 - Felipe Silva (Development Team)
+# EquipeHexagono
